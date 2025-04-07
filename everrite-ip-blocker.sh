@@ -3,6 +3,7 @@
 iptables -A INPUT -s 103.203.57.11 -j DROP
 iptables -A INPUT -s 103.29.69.96 -j DROP
 iptables -A INPUT -s 154.92.111.136 -j DROP
+iptables -A INPUT -s 179.48.54.213 -j DROP
 iptables -A INPUT -s 183.164.60.237 -j DROP
 iptables -A INPUT -s 185.7.214.180 -j DROP
 iptables -A INPUT -s 193.32.162.139 -j DROP
