@@ -1,0 +1,37 @@
+#!/bin/bash
+# Auto-generated iptables block script
+iptables -A INPUT -s 103.203.57.11 -j DROP
+iptables -A INPUT -s 103.29.69.96 -j DROP
+iptables -A INPUT -s 154.92.111.136 -j DROP
+iptables -A INPUT -s 183.164.60.237 -j DROP
+iptables -A INPUT -s 185.7.214.180 -j DROP
+iptables -A INPUT -s 193.32.162.139 -j DROP
+iptables -A INPUT -s 193.32.162.185 -j DROP
+iptables -A INPUT -s 195.184.76.0 -j DROP
+iptables -A INPUT -s 195.184.76.226 -j DROP
+iptables -A INPUT -s 196.251.70.219 -j DROP
+iptables -A INPUT -s 218.92.0.111 -j DROP
+iptables -A INPUT -s 218.92.0.112 -j DROP
+iptables -A INPUT -s 218.92.0.141 -j DROP
+iptables -A INPUT -s 218.92.0.198 -j DROP
+iptables -A INPUT -s 218.92.0.217 -j DROP
+iptables -A INPUT -s 218.92.0.218 -j DROP
+iptables -A INPUT -s 218.92.0.219 -j DROP
+iptables -A INPUT -s 218.92.0.220 -j DROP
+iptables -A INPUT -s 218.92.0.221 -j DROP
+iptables -A INPUT -s 218.92.0.223 -j DROP
+iptables -A INPUT -s 218.92.0.226 -j DROP
+iptables -A INPUT -s 218.92.0.227 -j DROP
+iptables -A INPUT -s 218.92.0.228 -j DROP
+iptables -A INPUT -s 218.92.0.229 -j DROP
+iptables -A INPUT -s 218.92.0.230 -j DROP
+iptables -A INPUT -s 218.92.0.232 -j DROP
+iptables -A INPUT -s 218.92.0.233 -j DROP
+iptables -A INPUT -s 218.92.0.235 -j DROP
+iptables -A INPUT -s 218.92.0.236 -j DROP
+iptables -A INPUT -s 218.92.0.237 -j DROP
+iptables -A INPUT -s 36.189.255.162 -j DROP
+iptables -A INPUT -s 4.236.187.58 -j DROP
+iptables -A INPUT -s 46.105.70.190 -j DROP
+iptables -A INPUT -s 71.6.232.24 -j DROP
+iptables -A INPUT -s 92.255.85.35 -j DROP
